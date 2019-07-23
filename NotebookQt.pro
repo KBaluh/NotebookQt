@@ -4,10 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        main.cpp \
-        notebook.cpp \
-        notebookitem.cpp
+        src\main.cpp \
+        src\notebook.cpp \
+        src\notebookitem.cpp
 
 HEADERS += \
-    notebook.h \
-    notebookitem.h
+    src\notebook.h \
+    src\notebookitem.h
